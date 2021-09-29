@@ -77,6 +77,9 @@ python testdev.py --img 416 --conf 0.001 --batch 32 --data coco.yaml --cfg cfg/y
 | **YOLOv4**<sub>mish-416</sub> |Darknet| 416 | 0.415 | 0.633 | 0.447 | 0.219 | 0.444 | 0.553 | [cfg](https://github.com/GuoQuanhao/YOLOv4-Paddle/tree/main/cfg/yolov4-pacsp-x-mish.cfg) | [weights](https://drive.google.com/open?id=1NuYL-MBKU0ko0dwsvnCx6vUr7970XSAR) |
 | **YOLOv4**<sub>leaky-416</sub> |Darknet| 416 | 0.407 | 0.627 | 0.439 | 0.214 | 0.437 | 0.540 | [cfg](https://github.com/GuoQuanhao/YOLOv4-Paddle/tree/main/cfg/yolov4-pacsp-x-mish.cfg) | [weights](https://drive.google.com/open?id=1bV4RyU_-PNB78G-OtoTmw1Q7t_q90GKY) |
 | **YOLOv4** |Darknet| 416 | 0.412 | - | - | - | - | - | [cfg](https://github.com/GuoQuanhao/YOLOv4-Paddle/tree/main/cfg/yolov4-pacsp-s.cfg) | [weights](https://drive.google.com/open?id=1L-SO373Udc9tPz5yLkgti5IAXFboVhUt)|
+
+**验证所产生的json文件可在此处下载[yolov4-mish-416](https://pan.baidu.com/s/1Y8Pd4gUuXblGY6C9tYwMVw)/rmb5，[yolov4-leaky-416](https://pan.baidu.com/s/1crmTC3yc768EVCle2DheJg)/nkfo，[darknet](https://pan.baidu.com/s/1mBs-Bs1D-rCzEabEIvX9uw)/lww5**
+
 ### 推理
 
 ```
